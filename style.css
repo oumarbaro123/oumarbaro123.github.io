@@ -1,0 +1,13 @@
+body{
+  background-image: url("https://previews.123rf.com/images/sabinezia/sabinezia1512/sabinezia151200031/50302523-watercolor-painted-background-in-light-blue-and-white.jpg");
+  background-size: 100%
+}
+
+p{
+  font-family: "cursive" ;
+  color: white;
+}
+h1 {background-color: yellow; color: black;}
+h2 {background-color: yellow; color: black;}
+h4 {background-color: yellow; color: black;}
+h5 {background-color: yellow; color: black;}
